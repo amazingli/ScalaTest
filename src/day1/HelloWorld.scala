@@ -7,6 +7,7 @@ object HelloWorld {
     print("HelloWorld")
     var i = 3
     print(i)
+
   }
 
 }
