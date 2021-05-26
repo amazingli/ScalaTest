@@ -1,3 +1,5 @@
+package day1
+
 object HelloWorld {
   //对象 对象名;
   def main(args: Array[String]): Unit = {

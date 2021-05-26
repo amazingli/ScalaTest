@@ -1,3 +1,5 @@
+package day1
+
 object Test1 {
   def main(args: Array[String]): Unit = {
     /*
@@ -12,7 +14,7 @@ object Test1 {
     println(4.4345)
     //浮点double类型
     //转义字符
-    println("hello\nworld")// \n输出空格
+    println("hello\nworld") // \n输出空格
     println("\"") // \"输出"
   }
 }
