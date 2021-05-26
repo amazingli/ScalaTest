@@ -15,7 +15,7 @@ object Test4 {
     println("a-b的值:" + (a - c))
     println("a*b的值:" + (a * d))
     println("a/b的值:" + (a / e))
-    println("a%b的值:" + (a % f))
+    println("a%b的值:" + (a % 3))
     //测试测试,提交
   }
 }
