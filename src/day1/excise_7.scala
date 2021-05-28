@@ -1,7 +1,6 @@
 package day1
 
 import scala.io.StdIn
-import scala.util.control.Breaks.break
 
 object excise_7 {
   def main(args: Array[String]): Unit = {
@@ -19,7 +18,7 @@ object excise_7 {
     while (i<=n){
       s+=i
       if (i==n){
-        printf("%d=%d/t",i,s)
+        printf("%d=%d\t",i,s)
         println(i+"="+s)
       }else {
 
