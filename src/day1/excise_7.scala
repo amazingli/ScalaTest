@@ -19,7 +19,7 @@ object excise_7 {
     while (i<=n){
       s+=i
       if (i==n){
-        printf("%d=%d",i,s)
+        printf("%d=%d/t",i,s)
         println(i+"="+s)
       }else {
         printf("%d+",i)
