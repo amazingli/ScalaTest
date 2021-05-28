@@ -33,6 +33,7 @@ object HelloWorld {
     //不换行输出： 今天是学习Scala的第一天
       println("我今天很开心")
     //换行输出： 我今天很开心
+
     val    string  =hello("我是张三风")
     println(string)
   }

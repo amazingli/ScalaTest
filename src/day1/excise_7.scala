@@ -22,6 +22,7 @@ object excise_7 {
         printf("%d=%d/t",i,s)
         println(i+"="+s)
       }else {
+
         printf("%d+",i)
       }
       i+=1
